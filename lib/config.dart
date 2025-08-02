@@ -1,4 +1,6 @@
 class Config {
+  static var huggingFaceApiKey;
+
   static String baseUrl(String? flavor) {
     switch (flavor) {
       case 'prod':
