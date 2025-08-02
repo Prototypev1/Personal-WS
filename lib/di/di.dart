@@ -8,7 +8,6 @@ import 'package:collider_loading/feature/animation/domain/cubit/loading_screen_c
 import 'package:collider_loading/feature/home/data/repository/home_page_repository.dart';
 import 'package:collider_loading/feature/home/data/repository/home_page_repository_impl.dart';
 import 'package:collider_loading/feature/home/domain/cubit/home_page_cubit.dart';
-import 'package:collider_loading/feature/home/presentation/home_page.dart';
 import 'package:collider_loading/feature/main_page_container/domain/cubit/main_page_cubit.dart';
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
